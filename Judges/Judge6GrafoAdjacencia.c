@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define MAX 100
+#define MAX 1000
 
 typedef int TVertice;
 
